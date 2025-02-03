@@ -1,0 +1,1 @@
+# snipe-diagnostics.nvim
