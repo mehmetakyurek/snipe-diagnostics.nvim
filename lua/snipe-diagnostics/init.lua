@@ -1,7 +1,7 @@
 local Menu = require('snipe.menu')
 
 local function format_diagnostic(d)
-	return string.format("%s | [%s, %s] | %s | %s", d.message, d.lnum, d.col, d.code, d.severity)
+	return string.format("%s | [%s, %s]", d.message, d.lnum, d.col)
 end
 
 local function get_diagnostics()
