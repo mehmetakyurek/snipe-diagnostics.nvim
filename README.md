@@ -14,4 +14,4 @@ Adds buffer diagnostics supports to ["leath-dub/snipe.nvim"](https://github.com/
 ### To-Do
 - [ ] Custom message formatting
 - [ ] Keybindings as parameters
-- [ ] Workspace Diagnostics?(maybe)
+- [ ] Workspace diagnostics?(maybe)
